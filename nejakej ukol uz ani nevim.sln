@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nejakej ukol uz ani nevim", "nejakej ukol uz ani nevim\nejakej ukol uz ani nevim.vcxproj", "{843DC1D8-652D-441A-BE7D-FA4E60DAC3AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{843DC1D8-652D-441A-BE7D-FA4E60DAC3AC}.Debug|x64.ActiveCfg = Debug|x64
+		{843DC1D8-652D-441A-BE7D-FA4E60DAC3AC}.Debug|x64.Build.0 = Debug|x64
+		{843DC1D8-652D-441A-BE7D-FA4E60DAC3AC}.Debug|x86.ActiveCfg = Debug|Win32
+		{843DC1D8-652D-441A-BE7D-FA4E60DAC3AC}.Debug|x86.Build.0 = Debug|Win32
+		{843DC1D8-652D-441A-BE7D-FA4E60DAC3AC}.Release|x64.ActiveCfg = Release|x64
+		{843DC1D8-652D-441A-BE7D-FA4E60DAC3AC}.Release|x64.Build.0 = Release|x64
+		{843DC1D8-652D-441A-BE7D-FA4E60DAC3AC}.Release|x86.ActiveCfg = Release|Win32
+		{843DC1D8-652D-441A-BE7D-FA4E60DAC3AC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91B50909-F85D-47D2-87FD-E41A46F4BCB4}
+	EndGlobalSection
+EndGlobal
